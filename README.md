@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-sundar-g-b0636225a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasundar5944@gmail.com)
 
-🎓 Student @ **Sathyabama Institute of Science And Technology**
+🎓 Student @ **Sathyabama Institute of Science And Technology**  
 📍 Chennai, India | 💼 Open to Opportunities
 
 </div>
@@ -51,6 +51,7 @@ let developer = Developer(
 <div align="center">
 
 ### 💻 Languages
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,18 +61,21 @@ let developer = Developer(
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📱 Mobile Development
+
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🌐 Web Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🛠️ Tools & Services
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -104,7 +108,7 @@ A comprehensive Flutter application for discovering and booking sports grounds, 
 - Payment Integration
 
 [![View Project](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sivx-folio.netlify.app/flu1#overview)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/littlevibe-maker/playspace)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siva-sundar-08/playspace)
 
 </td>
 <td width="50%">
@@ -125,40 +129,6 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=littlevibe-maker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlevibe-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=littlevibe-maker&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlevibe-maker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=littlevibe-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -219,7 +189,7 @@ I'm always excited to work on interesting projects and connect with fellow devel
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF5722?style=for-the-badge)](https://sivx-folio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siva-sundar-g-b0636225a/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:sivasundar5944@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/littlevibe-maker)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/siva-sundar-08)
 
 </div>
 
@@ -229,18 +199,12 @@ I'm always excited to work on interesting projects and connect with fellow devel
 
 ### 💭 Quote I Code By
 
-> *"Code is like humor. When you have to explain it, it's bad."*
+> *"Code is like humor. When you have to explain it, it's bad."*  
 > **– Cory House**
 
 ---
 
-### 📈 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/littlevibe-maker/count.svg)
-
----
-
-⭐️ From [littlevibe-maker](https://github.com/littlevibe-maker) | Built with ❤️ and lots of ☕
+⭐️ From [siva-sundar-08](https://github.com/siva-sundar-08) | Built with ❤️ and lots of ☕
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
