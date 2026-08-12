@@ -135,25 +135,20 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=siva-sundar-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siva-sundar-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats-eight.vercel.app?user=siva-sundar-08&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/siva-sundar-08)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siva-sundar-08&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
-
-</div>
+ 
+ <div align="center">
+ 
+-[![GitHub Streak](https://streak-stats.demolab.com?user=siva-sundar-08&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
++<img src="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/main/generated/overview.svg" width="49%"/>
++<img src="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/main/generated/languages.svg" width="49%"/>
+ 
+ </div>
+ 
+ <div align="center">
+ 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=siva-sundar-08&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
+ 
+ </div>
 
 ## 💼 Professional Interests
 
