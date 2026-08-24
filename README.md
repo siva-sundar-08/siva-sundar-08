@@ -29,7 +29,6 @@ let developer = Developer(
         .tools: ["Git", "Xcode", "VS Code", "Figma"]
     ],
     currentFocus: "Building intuitive mobile experiences",
-    funFact: "I debug with print statements and I'm not ashamed! 🐛"
 )
 ```
 
