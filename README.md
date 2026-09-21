@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Siva Sundar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=App+Developer+%7C+iOS+%26+Flutter;Frontend+Web+Developer;Building+Cross-Platform+Experiences;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=App+Developer+%7C+iOS;Frontend+Web+Developer;Building+Cross-Platform+Experiences;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sivx-folio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-sundar-g-b0636225a/)
