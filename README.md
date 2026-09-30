@@ -5,7 +5,7 @@
 
 <!-- Typing effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+intuitive+mobile+experiences;iOS+%C2%B7+Swift+%C2%B7+SwiftUI;Flutter+%C2%B7+Dart+%C2%B7+Cross-Platform;Always+learning%2C+always+creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+intuitive+mobile+experiences;iOS+%C2%B7+Swift+%C2%B7+SwiftUI;Web+%C2%B7+React+%C2%B7+JavaScript;Always+learning%2C+always+creating" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,9 +31,9 @@ struct Developer {
 }
 ```
 
-- 🔭 Working on **cross-platform mobile apps**
-- 🌱 Learning **SwiftUI**, **advanced Flutter animations**, **cloud architecture**
-- 💬 Ask me about **iOS, Flutter, or mobile UX**
+- 🔭 Working on **iOS apps and web projects**
+- 🌱 Learning **SwiftUI**, **advanced React**, **cloud architecture**
+- 💬 Ask me about **iOS, web development, or UX**
 - ⚡ I believe the best code is the code you don't have to write
 
 ---
@@ -54,7 +54,6 @@ struct Developer {
 
 **Languages**<br/>
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -63,7 +62,6 @@ struct Developer {
 
 **Mobile**<br/>
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 
@@ -90,20 +88,7 @@ struct Developer {
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏟️ Playspace
-**Cross-platform booking app**
-
-Flutter app for discovering and booking sports grounds, gaming hubs, VR zones and entertainment venues.
-
-`Flutter` `Dart` `Firebase` `Google Maps API` `Payments`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://sivx-folio.netlify.app/flu1#overview)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siva-sundar-08/playspace)
-
-</td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🌐 Portfolio Website
 **Personal brand showcase**
@@ -144,7 +129,7 @@ A modern, responsive site showcasing my projects, skills and professional journe
 const focus = {
   exploring: [
     "iOS architecture (MVVM, Clean)",
-    "Flutter state mgmt (Bloc, Riverpod)",
+    "Modern React & web performance",
     "Cloud-native mobile & CI/CD",
   ],
   lookingFor: ["Internships", "Open source", "Freelance", "Collabs"],
