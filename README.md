@@ -1,226 +1,178 @@
+<!-- Header banner -->
 <div align="center">
 
-# 👋 Hey there, I'm Siva Sundar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Siva%20Sundar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20%7C%20Flutter%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=App+Developer+%7C+iOS;Frontend+Web+Developer;Building+Cross-Platform+Experiences;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
+<!-- Typing effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+intuitive+mobile+experiences;iOS+%C2%B7+Swift+%C2%B7+SwiftUI;Flutter+%C2%B7+Dart+%C2%B7+Cross-Platform;Always+learning%2C+always+creating" alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sivx-folio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-sundar-g-b0636225a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasundar5944@gmail.com)
+<br/>
 
-🎓 Student @ **Sathyabama Institute of Science And Technology**  
-📍 Chennai, India | 💼 Open to Opportunities
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://sivx-folio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/siva-sundar-g-b0636225a/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:sivasundar5944@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=siva-sundar-08&style=for-the-badge&color=1F6FEB&label=VIEWS)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `~/about`
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siva-sundar-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 
 ```swift
-let developer = Developer(
-    name: "Siva Sundar",
-    location: "Chennai, India 🇮🇳",
-    education: "Sathyabama Institute of Science And Technology",
-    skills: [
-        .mobile: ["iOS (Swift)", "Flutter (Dart)", "Cross-Platform"],
-        .web: ["React", "JavaScript", "HTML/CSS", "Bootstrap"],
-        .backend: ["Firebase", "REST APIs"],
-        .tools: ["Git", "Xcode", "VS Code", "Figma"]
-    ],
-    currentFocus: "Building intuitive mobile experiences",
-)
+struct Developer {
+    let name       = "Siva Sundar"
+    let location   = "Chennai, India 🇮🇳"
+    let education  = "Sathyabama Institute of Science And Technology"
+    let focus      = "Building intuitive mobile experiences"
+    let openTo     = ["Internships", "Freelance", "Open Source"]
+}
 ```
 
-<details>
-<summary>📈 More About My Journey</summary>
+- 🔭 Working on **cross-platform mobile apps**
+- 🌱 Learning **SwiftUI**, **advanced Flutter animations**, **cloud architecture**
+- 💬 Ask me about **iOS, Flutter, or mobile UX**
+- ⚡ I believe the best code is the code you don't have to write
 
-- 🔭 Currently working on **cross-platform mobile applications**
-- 🌱 Learning **SwiftUI**, **Advanced Flutter animations**, and **Cloud Architecture**
-- 👯 Looking to collaborate on **open-source mobile projects**
-- 💬 Ask me about **iOS development, Flutter, or mobile UX**
-- ⚡ Fun fact: I believe the best code is the code you don't have to write
-
-</details>
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## `$ whoami` — terminal stats
 
 <div align="center">
 
-### 💻 Languages
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📱 Mobile Development
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🛠️ Tools & Services
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=siva-sundar-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siva-sundar-08&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🛠️ Tech Stack
 
 <div align="center">
+
+**Languages**<br/>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Mobile**<br/>
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+
+**Web**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Tools**<br/>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏟️ Playspace
-#### Cross-Platform Booking App
+**Cross-platform booking app**
 
-A comprehensive Flutter application for discovering and booking sports grounds, gaming hubs, VR zones, and entertainment venues.
+Flutter app for discovering and booking sports grounds, gaming hubs, VR zones and entertainment venues.
 
-**Tech Stack:**
-- Flutter & Dart
-- Firebase Backend
-- Google Maps API
-- Payment Integration
+`Flutter` `Dart` `Firebase` `Google Maps API` `Payments`
 
-[![View Project](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sivx-folio.netlify.app/flu1#overview)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siva-sundar-08/playspace)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://sivx-folio.netlify.app/flu1#overview)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siva-sundar-08/playspace)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
-#### Personal Brand Showcase
+**Personal brand showcase**
 
-A modern, responsive portfolio website showcasing my projects, skills, and professional journey.
+A modern, responsive site showcasing my projects, skills and professional journey.
 
-**Tech Stack:**
-- React
-- HTML/CSS/JavaScript
-- Bootstrap
-- Responsive Design
+`React` `HTML/CSS/JS` `Bootstrap` `Responsive`
 
-[![View Live](https://img.shields.io/badge/Visit_Site-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://sivx-folio.netlify.app)
+[![Visit](https://img.shields.io/badge/Visit_Site-FF5722?style=flat-square&logo=safari&logoColor=white)](https://sivx-folio.netlify.app)
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+<!-- 3D contribution graph (generated by .github/workflows/profile-3d.yml) -->
+<img src="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph"/>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siva-sundar-08&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%" alt="Activity graph"/>
+
+<!-- Contribution snake (generated by .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
- 
- <div align="center">
- 
--[![GitHub Streak](https://streak-stats.demolab.com?user=siva-sundar-08&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
-+<img src="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/main/generated/overview.svg" width="49%"/>
-+<img src="https://raw.githubusercontent.com/siva-sundar-08/siva-sundar-08/main/generated/languages.svg" width="49%"/>
- 
- </div>
- 
- <div align="center">
- 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=siva-sundar-08&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
- 
- </div>
-
-## 💼 Professional Interests
+## 💼 Currently Exploring
 
 ```javascript
-const professionalFocus = {
-    currentlyExploring: [
-        "Advanced iOS Architecture Patterns (MVVM, Clean Architecture)",
-        "Flutter State Management (Bloc, Riverpod)",
-        "Cloud-Native Mobile Development",
-        "Mobile DevOps & CI/CD"
-    ],
-    lookingForOpportunities: [
-        "Mobile Development Internships",
-        "Open Source Contributions",
-        "Freelance Projects",
-        "Tech Community Collaborations"
-    ],
-    passionateAbout: [
-        "Creating delightful user experiences",
-        "Writing clean, maintainable code",
-        "Mobile performance optimization",
-        "Mentoring aspiring developers"
-    ]
+const focus = {
+  exploring: ["iOS architecture (MVVM, Clean)", "Flutter state mgmt (Bloc, Riverpod)", "Cloud-native mobile", "Mobile CI/CD"],
+  lookingFor: ["Mobile internships", "Open-source work", "Freelance projects", "Community collabs"],
+  passionateAbout: ["Delightful UX", "Clean, maintainable code", "Performance", "Mentoring"]
 };
 ```
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 📱 Understanding SwiftUI Property Wrappers
-- 🚀 Flutter Performance Optimization Tips
-- 🎨 Designing Better Mobile UX
-- 💡 Clean Code Principles for Mobile Development
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Collaborate!
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-I'm always excited to work on interesting projects and connect with fellow developers!
+Open to **freelance mobile projects · open source · internships · mentorship**
 
-**Open to:**
-- 🚀 Freelance mobile app projects
-- 🤝 Open source collaborations
-- 💼 Internship opportunities
-- 🎓 Knowledge sharing & mentorship
-
-**Reach out to me:**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF5722?style=for-the-badge)](https://sivx-folio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge)](https://sivx-folio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siva-sundar-g-b0636225a/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:sivasundar5944@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sivasundar5944@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/siva-sundar-08)
 
-</div>
+<br/>
 
----
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<div align="center">
-
-### 💭 Quote I Code By
-
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> **– Cory House**
-
----
-
-⭐️ From [siva-sundar-08](https://github.com/siva-sundar-08) | Built with ❤️ and lots of ☕
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
