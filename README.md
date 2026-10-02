@@ -25,9 +25,9 @@
 struct Developer {
     let name      = "Siva Sundar"
     let location  = "Chennai, India 🇮🇳"
-    let college   = "Sathyabama Institute"
-    let focus     = "Intuitive mobile experiences"
-    let openTo    = ["Internships", "Freelance", "OSS"]
+    let college   = "Sathyabama Institute of Science and Technology"
+    let focus     = "Intuitive mobile and web experiences"
+    let Work      = [Adrig Ai Technologies]
 }
 ```
 
