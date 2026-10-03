@@ -123,14 +123,15 @@ A modern, responsive site showcasing my projects, skills and professional journe
 
 ---
 
-## 💼 Currently Exploring
+## 💼 Currently Working
 
 ```javascript
 const focus = {
-  exploring: [
-    "iOS architecture (MVVM, Clean)",
-    "Modern React & web performance",
-    "Cloud-native mobile & CI/CD",
+  role: "App Developer & Web Developer @ Adrig AI Technologies",
+  working: [
+    "iOS apps with Swift & SwiftUI",
+    "Responsive web apps with React & JavaScript",
+    "Firebase-backed features and API integrations",
   ],
   lookingFor: ["Internships", "Open source", "Freelance", "Collabs"],
   passionateAbout: ["Delightful UX", "Clean code", "Performance", "Mentoring"],
