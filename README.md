@@ -27,7 +27,7 @@ struct Developer {
     let location  = "Chennai, India 🇮🇳"
     let college   = "Sathyabama Institute of Science and Technology"
     let focus     = "Intuitive mobile and web experiences"
-    let Work      = [Adrig Ai Technologies]
+    let Work      = "Adrig Ai Technologies"
 }
 ```
 
