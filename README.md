@@ -31,9 +31,9 @@ struct Developer {
 }
 ```
 
-- 🔭 Working on **iOS apps and web projects**
+- 🔭 Working on **Mobile apps and web projects**
 - 🌱 Learning **SwiftUI**, **advanced React**, **cloud architecture**
-- 💬 Ask me about **iOS, web development, or UX**
+- 💬 Ask me about **iOS, web development**
 - ⚡ I believe the best code is the code you don't have to write
 
 ---
