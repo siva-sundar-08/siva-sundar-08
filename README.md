@@ -38,7 +38,7 @@ struct Developer {
 
 ---
 
-## `$ whoami` — terminal stats
+### `~Terminal stats`
 
 <div align="center">
 
