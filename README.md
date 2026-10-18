@@ -84,27 +84,6 @@ struct Developer {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td valign="top">
-
-### 🌐 Portfolio Website
-**Personal brand showcase**
-
-A modern, responsive site showcasing my projects, skills and professional journey.
-
-`React` `HTML/CSS/JS` `Bootstrap` `Responsive`
-
-[![Visit](https://img.shields.io/badge/Visit_Site-FF5722?style=flat-square&logo=safari&logoColor=white)](https://sivx-folio.netlify.app)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 Contributions
 
 <div align="center">
